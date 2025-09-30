@@ -1,0 +1,9 @@
+pnpm i drizzle-orm
+pnpm i jest
+pnpm i drizzle-kit
+pnpm install --save-dev @types/node typescript ts-node
+pnpm install @neondatabase/serverless
+pnpm i drizzle-orm
+pnpm i nodemailer
+pnpm install --save-dev @types/nodemailer
+pnpm install --save-dev @types/node
